@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "419724824569",
+    "firebase_url": "https://jugueton-d5601.firebaseio.com",
+    "project_id": "jugueton-d5601",
+    "storage_bucket": "jugueton-d5601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419724824569:android:fd6b1960e526cb3a5df728",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419724824569-l52jfsfue4lge7pqf362e4un2hskiql4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWcHG4PHdMt8leafSYJhak2uYExu5HOuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419724824569-l52jfsfue4lge7pqf362e4un2hskiql4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
